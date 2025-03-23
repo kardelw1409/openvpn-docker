@@ -1,5 +1,5 @@
 # Smallest base image
-FROM alpine:3.18
+FROM alpine:3.9
 
 MAINTAINER ValeryKardel<valerykardel@gmail.com>
 
